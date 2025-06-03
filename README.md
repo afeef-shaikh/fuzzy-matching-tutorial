@@ -12,8 +12,8 @@ You'll learn:
 
 ## Tutorial Notebook
 
-▶ **[Click here to open in Colab](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/fuzzy_matching_tutorial.ipynb)**  
-*(Replace with your actual notebook link)*
+▶ **[Click here to open in Colab](https://colab.research.google.com/github/afeef-shaikh/fuzzy-matching-tutorial/blob/main/Tutorial_Cleaning_Messy_Names_with_Dedupe.ipynb)**  
+
 
 ---
 
